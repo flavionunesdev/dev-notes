@@ -1,0 +1,15 @@
+# Table of contents
+
+* [😎 Svelte + Sveltekit](README.md)
+  * [📽️ Youtube videos](svelte-+-sveltekit/youtube-videos.md)
+* [👨‍💻 Curso GO](curso-go.md)
+* [🍊 Golang gorutine](golang-gorutine.md)
+* [👽 Tech leader](tech-leader.md)
+* [😄 Configurando nova maquina ubuntu](configurando-nova-maquina-ubuntu.md)
+* [Boundary - Hashcorp](boundary-hashcorp.md)
+* [👨‍🔧 Logs e Grafana Loki - Alura](logs-e-grafana-loki-alura.md)
+* [☕ Tmux](tmux.md)
+* [👩‍🚀 Docker Swarm](docker-swarm/README.md)
+  * [🔑 Secrets](docker-swarm/secrets.md)
+* [Mermaid Flowchart](mermaid-flowchart.md)
+* [🔮 Vim (atalhos)](vim-atalhos.md)
